@@ -57,7 +57,7 @@
     "id": "7",
     "title": "Orbital Space Station 1",
     "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
-    "image": "images/scifi_space_station.png",
+    "image": "images/scifi_space_station.jpg",
     "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
     "category": "3D Design",
     "style": "Sci-Fi Concept"
@@ -102,7 +102,7 @@
     "id": "12",
     "title": "Ukiyo-e Surfing Cat 1",
     "description": "Traditional Japanese woodblock print with a whimsical twist.",
-    "image": "images/ukiyoe_surfing_cat.png",
+    "image": "images/ukiyoe_surfing_cat.jpg",
     "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
     "category": "Artistic",
     "style": "Ukiyo-e"
