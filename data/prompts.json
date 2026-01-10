@@ -1,0 +1,542 @@
+[
+  {
+    "id": "1",
+    "title": "The Cybernetic Watchmaker 1",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "2",
+    "title": "Rainy Station Sunset 1",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "3",
+    "title": "Iridescent Glass Shapes 1",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "4",
+    "title": "Lighthouse in the Storm 1",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "5",
+    "title": "Neon Cyber City 1",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "6",
+    "title": "Floating Dream Island 1",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "7",
+    "title": "Orbital Space Station 1",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "8",
+    "title": "Surreal Desert Chess 1",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "9",
+    "title": "Low Poly Mountains 1",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "10",
+    "title": "Paper Cutout Forest 1",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  },
+  {
+    "id": "11",
+    "title": "The Cybernetic Watchmaker 2",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "12",
+    "title": "Rainy Station Sunset 2",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "13",
+    "title": "Iridescent Glass Shapes 2",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "14",
+    "title": "Lighthouse in the Storm 2",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "15",
+    "title": "Neon Cyber City 2",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "16",
+    "title": "Floating Dream Island 2",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "17",
+    "title": "Orbital Space Station 2",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "18",
+    "title": "Surreal Desert Chess 2",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "19",
+    "title": "Low Poly Mountains 2",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "20",
+    "title": "Paper Cutout Forest 2",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  },
+  {
+    "id": "21",
+    "title": "The Cybernetic Watchmaker 3",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "22",
+    "title": "Rainy Station Sunset 3",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "23",
+    "title": "Iridescent Glass Shapes 3",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "24",
+    "title": "Lighthouse in the Storm 3",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "25",
+    "title": "Neon Cyber City 3",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "26",
+    "title": "Floating Dream Island 3",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "27",
+    "title": "Orbital Space Station 3",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "28",
+    "title": "Surreal Desert Chess 3",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "29",
+    "title": "Low Poly Mountains 3",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "30",
+    "title": "Paper Cutout Forest 3",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  },
+  {
+    "id": "31",
+    "title": "The Cybernetic Watchmaker 4",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "32",
+    "title": "Rainy Station Sunset 4",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "33",
+    "title": "Iridescent Glass Shapes 4",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "34",
+    "title": "Lighthouse in the Storm 4",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "35",
+    "title": "Neon Cyber City 4",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "36",
+    "title": "Floating Dream Island 4",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "37",
+    "title": "Orbital Space Station 4",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "38",
+    "title": "Surreal Desert Chess 4",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "39",
+    "title": "Low Poly Mountains 4",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "40",
+    "title": "Paper Cutout Forest 4",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  },
+  {
+    "id": "41",
+    "title": "The Cybernetic Watchmaker 5",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "42",
+    "title": "Rainy Station Sunset 5",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "43",
+    "title": "Iridescent Glass Shapes 5",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "44",
+    "title": "Lighthouse in the Storm 5",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "45",
+    "title": "Neon Cyber City 5",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "46",
+    "title": "Floating Dream Island 5",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "47",
+    "title": "Orbital Space Station 5",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "48",
+    "title": "Surreal Desert Chess 5",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "49",
+    "title": "Low Poly Mountains 5",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "50",
+    "title": "Paper Cutout Forest 5",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  },
+  {
+    "id": "51",
+    "title": "The Cybernetic Watchmaker 6",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic"
+  },
+  {
+    "id": "52",
+    "title": "Rainy Station Sunset 6",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style"
+  },
+  {
+    "id": "53",
+    "title": "Iridescent Glass Shapes 6",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism"
+  },
+  {
+    "id": "54",
+    "title": "Lighthouse in the Storm 6",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil"
+  },
+  {
+    "id": "55",
+    "title": "Neon Cyber City 6",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art"
+  },
+  {
+    "id": "56",
+    "title": "Floating Dream Island 6",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor"
+  },
+  {
+    "id": "57",
+    "title": "Orbital Space Station 6",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept"
+  },
+  {
+    "id": "58",
+    "title": "Surreal Desert Chess 6",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism"
+  },
+  {
+    "id": "59",
+    "title": "Low Poly Mountains 6",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly"
+  },
+  {
+    "id": "60",
+    "title": "Paper Cutout Forest 6",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut"
+  }
+]
