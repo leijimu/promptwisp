@@ -127,12 +127,12 @@
   },
   {
     "id": "15",
-    "title": "The Cybernetic Watchmaker 2",
-    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
-    "image": "images/cybernetic_watchmaker.jpg",
-    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
-    "category": "Photorealistic",
-    "style": "Cyberpunk / Cinematic"
+    "title": "Ink Wash China Trend Portrait",
+    "description": "Extreme black-and-white collision.",
+    "image": "images/wukong.png",
+    "prompt": "Extreme black-and-white collision aesthetic.Bold heavy ink mass silhouettes for shaping, feibai brushstrokes for freehand expression, while the facial features are rendered with clean, sharp, ultra-fine precise linework.Half-body turning-back glance, large area of “reserved white space” on the right to create spatial depth and atmosphere, pierced through by one strong S-shaped dynamic element (flowing hair / ink traces / fluttering ribbons) that runs across the entire composition, pushing visual tension to the absolute maximum.Signature: Bottom right corner, handwritten signature style reading 「PromptWisp」, using a simple, continuous-stroke black ink pen style — small, restrained, clearly legible, and not overlapping the main subject. No other readable text or duplicate signatures may appear besides this one.Subject: [wukong].",
+    "category": "Artistic",
+    "style": "Ink Wash / Cinematic"
   },
   {
     "id": "16",
