@@ -6,7 +6,9 @@
     "image": "images/cybernetic_watchmaker.jpg",
     "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
     "category": "Photorealistic",
-    "style": "Cyberpunk / Cinematic"
+    "style": "Cyberpunk / Cinematic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
   },
   {
     "id": "2",
@@ -15,7 +17,9 @@
     "image": "images/anime_rainy_station.jpg",
     "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
     "category": "Anime",
-    "style": "Shinkai Style"
+    "style": "Shinkai Style",
+    "model": "Niji 6",
+    "ratio": "16:9"
   },
   {
     "id": "3",
@@ -24,7 +28,9 @@
     "image": "images/glass_morphism_shapes.jpg",
     "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
     "category": "3D Design",
-    "style": "Abstract / Glassmorphism"
+    "style": "Abstract / Glassmorphism",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
   },
   {
     "id": "4",
@@ -33,7 +39,9 @@
     "image": "images/oil_painting_lighthouse.jpg",
     "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
     "category": "Artistic",
-    "style": "Impasto Oil"
+    "style": "Impasto Oil",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
   },
   {
     "id": "5",
@@ -42,7 +50,9 @@
     "image": "images/pixel_art_city.jpg",
     "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
     "category": "Artistic",
-    "style": "Pixel Art"
+    "style": "Pixel Art",
+    "model": "DALL-E 3",
+    "ratio": "16:9"
   },
   {
     "id": "6",
@@ -51,16 +61,20 @@
     "image": "images/watercolor_dream_landscape.jpg",
     "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
     "category": "Artistic",
-    "style": "Watercolor"
+    "style": "Watercolor",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
   },
   {
     "id": "7",
     "title": "Orbital Space Station 1",
     "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
-    "image": "images/scifi_space_station.jpg",
+    "image": "images/scifi_space_station.png",
     "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
     "category": "3D Design",
-    "style": "Sci-Fi Concept"
+    "style": "Sci-Fi Concept",
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9"
   },
   {
     "id": "8",
@@ -69,7 +83,9 @@
     "image": "images/surreal_chess_desert.jpg",
     "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
     "category": "Artistic",
-    "style": "Surrealism"
+    "style": "Surrealism",
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9"
   },
   {
     "id": "9",
@@ -78,7 +94,9 @@
     "image": "images/low_poly_mountains.jpg",
     "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
     "category": "3D Design",
-    "style": "Low Poly"
+    "style": "Low Poly",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
   },
   {
     "id": "10",
@@ -87,7 +105,9 @@
     "image": "images/paper_cut_forest.jpg",
     "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
     "category": "Artistic",
-    "style": "Paper Cut"
+    "style": "Paper Cut",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
   },
   {
     "id": "11",
@@ -96,16 +116,20 @@
     "image": "images/clay_robot_garden.jpg",
     "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
     "category": "3D Design",
-    "style": "Claymorphism"
+    "style": "Claymorphism",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1"
   },
   {
     "id": "12",
     "title": "Ukiyo-e Surfing Cat 1",
     "description": "Traditional Japanese woodblock print with a whimsical twist.",
-    "image": "images/ukiyoe_surfing_cat.jpg",
+    "image": "images/ukiyoe_surfing_cat.png",
     "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
     "category": "Artistic",
-    "style": "Ukiyo-e"
+    "style": "Ukiyo-e",
+    "model": "Niji 6",
+    "ratio": "16:9"
   },
   {
     "id": "13",
@@ -114,7 +138,9 @@
     "image": "images/pop_art_astronaut.jpg",
     "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
     "category": "Artistic",
-    "style": "Pop Art"
+    "style": "Pop Art",
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9"
   },
   {
     "id": "14",
@@ -123,24 +149,624 @@
     "image": "images/blueprint_time_machine.jpg",
     "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
     "category": "3D Design",
-    "style": "Blueprint / Technical"
+    "style": "Blueprint / Technical",
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9"
   },
   {
     "id": "15",
-    "title": "Ink Wash China Trend Portrait",
-    "description": "Extreme black-and-white collision.",
-    "image": "images/wukong.jpg",
-    "prompt": "Extreme black-and-white collision aesthetic.Bold heavy ink mass silhouettes for shaping, feibai brushstrokes for freehand expression, while the facial features are rendered with clean, sharp, ultra-fine precise linework.Half-body turning-back glance, large area of “reserved white space” on the right to create spatial depth and atmosphere, pierced through by one strong S-shaped dynamic element (flowing hair / ink traces / fluttering ribbons) that runs across the entire composition, pushing visual tension to the absolute maximum.Signature: Bottom right corner, handwritten signature style reading 「PromptWisp」, using a simple, continuous-stroke black ink pen style — small, restrained, clearly legible, and not overlapping the main subject. No other readable text or duplicate signatures may appear besides this one.Subject: [wukong].",
-    "category": "Artistic",
-    "style": "Ink Wash / Cinematic"
+    "title": "The Cybernetic Watchmaker 2",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
   },
   {
     "id": "16",
-    "title": "Dinner with Person or Animal",
-    "description": "Eating with Person or Animal,with Social Media Picture as background.",
-    "image": "images/dinner.jpg",
-    "prompt": "Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads:“text“. Bottom right has a timestamp “3:33 PM“ and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.",
-    "category": "SocialMedia",
-    "style": "Social Media Style"
+    "title": "Rainy Station Sunset 2",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "17",
+    "title": "Iridescent Glass Shapes 2",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "18",
+    "title": "Lighthouse in the Storm 2",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "19",
+    "title": "Neon Cyber City 2",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art",
+    "model": "DALL-E 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "20",
+    "title": "Floating Dream Island 2",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "21",
+    "title": "Orbital Space Station 2",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept",
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9"
+  },
+  {
+    "id": "22",
+    "title": "Surreal Desert Chess 2",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism",
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9"
+  },
+  {
+    "id": "23",
+    "title": "Low Poly Mountains 2",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "24",
+    "title": "Paper Cutout Forest 2",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "25",
+    "title": "Claymorphism Robot Garden 2",
+    "description": "Cute and friendly 3D clay robot in a tiny garden.",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "style": "Claymorphism",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1"
+  },
+  {
+    "id": "26",
+    "title": "Ukiyo-e Surfing Cat 2",
+    "description": "Traditional Japanese woodblock print with a whimsical twist.",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "style": "Ukiyo-e",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "27",
+    "title": "Pop Art Astronaut 2",
+    "description": "Vibrant Andy Warhol style portrait with bold colors.",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "style": "Pop Art",
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9"
+  },
+  {
+    "id": "28",
+    "title": "Steampunk Blueprint 2",
+    "description": "Detailed technical schematic of a time machine.",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "style": "Blueprint / Technical",
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "29",
+    "title": "The Cybernetic Watchmaker 3",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "30",
+    "title": "Rainy Station Sunset 3",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "31",
+    "title": "Iridescent Glass Shapes 3",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "32",
+    "title": "Lighthouse in the Storm 3",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "33",
+    "title": "Neon Cyber City 3",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art",
+    "model": "DALL-E 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "34",
+    "title": "Floating Dream Island 3",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "35",
+    "title": "Orbital Space Station 3",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept",
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9"
+  },
+  {
+    "id": "36",
+    "title": "Surreal Desert Chess 3",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism",
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9"
+  },
+  {
+    "id": "37",
+    "title": "Low Poly Mountains 3",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "38",
+    "title": "Paper Cutout Forest 3",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "39",
+    "title": "Claymorphism Robot Garden 3",
+    "description": "Cute and friendly 3D clay robot in a tiny garden.",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "style": "Claymorphism",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1"
+  },
+  {
+    "id": "40",
+    "title": "Ukiyo-e Surfing Cat 3",
+    "description": "Traditional Japanese woodblock print with a whimsical twist.",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "style": "Ukiyo-e",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "41",
+    "title": "Pop Art Astronaut 3",
+    "description": "Vibrant Andy Warhol style portrait with bold colors.",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "style": "Pop Art",
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9"
+  },
+  {
+    "id": "42",
+    "title": "Steampunk Blueprint 3",
+    "description": "Detailed technical schematic of a time machine.",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "style": "Blueprint / Technical",
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "43",
+    "title": "The Cybernetic Watchmaker 4",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "44",
+    "title": "Rainy Station Sunset 4",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "45",
+    "title": "Iridescent Glass Shapes 4",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "46",
+    "title": "Lighthouse in the Storm 4",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "47",
+    "title": "Neon Cyber City 4",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art",
+    "model": "DALL-E 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "48",
+    "title": "Floating Dream Island 4",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "49",
+    "title": "Orbital Space Station 4",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept",
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9"
+  },
+  {
+    "id": "50",
+    "title": "Surreal Desert Chess 4",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism",
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9"
+  },
+  {
+    "id": "51",
+    "title": "Low Poly Mountains 4",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "52",
+    "title": "Paper Cutout Forest 4",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "53",
+    "title": "Claymorphism Robot Garden 4",
+    "description": "Cute and friendly 3D clay robot in a tiny garden.",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "style": "Claymorphism",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1"
+  },
+  {
+    "id": "54",
+    "title": "Ukiyo-e Surfing Cat 4",
+    "description": "Traditional Japanese woodblock print with a whimsical twist.",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "style": "Ukiyo-e",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "55",
+    "title": "Pop Art Astronaut 4",
+    "description": "Vibrant Andy Warhol style portrait with bold colors.",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "style": "Pop Art",
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9"
+  },
+  {
+    "id": "56",
+    "title": "Steampunk Blueprint 4",
+    "description": "Detailed technical schematic of a time machine.",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "style": "Blueprint / Technical",
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "57",
+    "title": "The Cybernetic Watchmaker 5",
+    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "style": "Cyberpunk / Cinematic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "58",
+    "title": "Rainy Station Sunset 5",
+    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "style": "Shinkai Style",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "59",
+    "title": "Iridescent Glass Shapes 5",
+    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "style": "Abstract / Glassmorphism",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "60",
+    "title": "Lighthouse in the Storm 5",
+    "description": "Expressive impasto oil painting capturing the raw power of nature.",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "style": "Impasto Oil",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "61",
+    "title": "Neon Cyber City 5",
+    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "style": "Pixel Art",
+    "model": "DALL-E 3",
+    "ratio": "16:9"
+  },
+  {
+    "id": "62",
+    "title": "Floating Dream Island 5",
+    "description": "Ethereal floating island landscape in soft watercolor.",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "style": "Watercolor",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "63",
+    "title": "Orbital Space Station 5",
+    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "style": "Sci-Fi Concept",
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9"
+  },
+  {
+    "id": "64",
+    "title": "Surreal Desert Chess 5",
+    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "style": "Surrealism",
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9"
+  },
+  {
+    "id": "65",
+    "title": "Low Poly Mountains 5",
+    "description": "Minimalist low poly landscape with vibrant colors.",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "style": "Low Poly",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9"
+  },
+  {
+    "id": "66",
+    "title": "Paper Cutout Forest 5",
+    "description": "Whimsical layered paper art of a magical forest.",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "style": "Paper Cut",
+    "model": "Midjourney v6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "67",
+    "title": "Claymorphism Robot Garden 5",
+    "description": "Cute and friendly 3D clay robot in a tiny garden.",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "style": "Claymorphism",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1"
+  },
+  {
+    "id": "68",
+    "title": "Ukiyo-e Surfing Cat 5",
+    "description": "Traditional Japanese woodblock print with a whimsical twist.",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "style": "Ukiyo-e",
+    "model": "Niji 6",
+    "ratio": "16:9"
+  },
+  {
+    "id": "69",
+    "title": "Pop Art Astronaut 5",
+    "description": "Vibrant Andy Warhol style portrait with bold colors.",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "style": "Pop Art",
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9"
+  },
+  {
+    "id": "70",
+    "title": "Steampunk Blueprint 5",
+    "description": "Detailed technical schematic of a time machine.",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "style": "Blueprint / Technical",
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9"
   }
 ]
