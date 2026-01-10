@@ -133,5 +133,14 @@
     "prompt": "Extreme black-and-white collision aesthetic.Bold heavy ink mass silhouettes for shaping, feibai brushstrokes for freehand expression, while the facial features are rendered with clean, sharp, ultra-fine precise linework.Half-body turning-back glance, large area of “reserved white space” on the right to create spatial depth and atmosphere, pierced through by one strong S-shaped dynamic element (flowing hair / ink traces / fluttering ribbons) that runs across the entire composition, pushing visual tension to the absolute maximum.Signature: Bottom right corner, handwritten signature style reading 「PromptWisp」, using a simple, continuous-stroke black ink pen style — small, restrained, clearly legible, and not overlapping the main subject. No other readable text or duplicate signatures may appear besides this one.Subject: [wukong].",
     "category": "Artistic",
     "style": "Ink Wash / Cinematic"
+  },
+  {
+    "id": "16",
+    "title": "Dinner with Person or Animal",
+    "description": "Eating with Person or Animal,with Social Media Picture as background.",
+    "image": "images/dinner.jpg",
+    "prompt": "Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads:“text“. Bottom right has a timestamp “3:33 PM“ and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.",
+    "category": "SocialMedia",
+    "style": "Social Media Style"
   }
 ]
