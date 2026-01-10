@@ -136,20 +136,11 @@
   },
   {
     "id": "16",
-    "title": "Rainy Station Sunset 2",
-    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
-    "image": "images/anime_rainy_station.jpg",
-    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
-    "category": "Anime",
-    "style": "Shinkai Style"
-  },
-  {
-    "id": "17",
-    "title": "Iridescent Glass Shapes 2",
-    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
-    "image": "images/glass_morphism_shapes.jpg",
-    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
-    "category": "3D Design",
-    "style": "Abstract / Glassmorphism"
+    "title": "Dinner with Person or Animal",
+    "description": "Eating with Person or Animal,with Social Media Picture as background.",
+    "image": "images/dinner.jpg",
+    "prompt": "Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads: "INSERT TEXT". Bottom right has a timestamp '3:33 PM' and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.",
+    "category": "SocialMedia",
+    "style": "Social Media Style"
   }
 ]
