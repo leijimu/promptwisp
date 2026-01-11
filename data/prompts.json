@@ -201,7 +201,7 @@
     "style": "Food",
     "model": "Nano Banana pro 3.0",
     "ratio": "3:4",
-    "authorUrl": "https://promptwisp.com"
+    "authorUrl": "https://x.com/Just_sharon7/status/2009937038670540843"
   },
   {
     "id": "18",
@@ -213,7 +213,7 @@
     "style": "Food",
     "model": "Nano Banana pro",
     "ratio": "16:9",
-    "authorUrl": "https://promptwisp.com"
+    "authorUrl": "https://x.com/meng_dagg695/status/2009947657905811727"
   },
   {
     "id": "19",
@@ -225,7 +225,7 @@
     "style": "Electric Comic Noir",
     "model": "Niji 7",
     "ratio": "1:1",
-    "authorUrl": "https://promptwisp.com"
+    "authorUrl": "https://x.com/Midlibrary_io/status/2009942544885657647"
   },
   {
     "id": "20",
@@ -237,7 +237,7 @@
     "style": "Ultra-realistic monochrome fine-art",
     "model": "Gemini/Chat GPT",
     "ratio": "4:3",
-    "authorUrl": "https://promptwisp.com"
+    "authorUrl": "https://x.com/23rd_Pulikesi/status/2009906362718007571"
   },
   {
     "id": "21",
@@ -249,7 +249,19 @@
     "style": "Tradition, power, and couture — styled for the cover",
     "model": "Gemini/ChatGPT/Grok",
     "ratio": "2:3",
-	"authorUrl": "https://x.com/me_Aarvi"
+	"authorUrl": "https://x.com/me_Aarvi/status/2010149771726741724"
+  },
+  {
+    "id": "22",
+    "title": "Epic 3D scene",
+    "description": "Massive architectural blueprint",
+    "image": "images/Epic 3D scene.jpg",
+    "prompt": "pinned to a drafting table, its ink lines rising off the paper into fully realized construction. Blue lines become steel beams mid-weld, floor plans inflate into furnished rooms, elevation drawings push outward into facades with working windows. Construction phases coexist simultaneously: foundation being poured in one corner while the penthouse is already inhabited in another. Tiny workers, cranes, and scaffolding swarm the rising structure. The flat drawing and the living building merge at impossible angles. Technical annotations float as dimensional signage. Architect's coffee cup sits at the edge, casting shadow across unbuilt sections. Extreme scale contrast, construction dust catching afternoon light, 8K, photorealistic",
+    "category": "3D Design",
+    "style": "Massive architectural blueprint",
+    "model": "Nano Banana pro",
+    "ratio": "4:3",
+	"authorUrl": "https://x.com/AllaAisling/status/2010009737816162736"
   }
 ]
 
