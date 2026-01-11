@@ -185,8 +185,7 @@
     "style": "Food",
     "model": "Nano Banana pro 3.0",
     "ratio": "3:4"
-  }
-  ,
+  },
   {
     "id": "18",
     "title": "Crack Open the Real Taste",
@@ -197,6 +196,17 @@
     "style": "Food",
     "model": "Nano Banana pro",
     "ratio": "16:9"
+  },
+  {
+    "id": "19",
+    "title": "Electric Comic Noir",
+    "description": "AI-edited hyper-realistic commercial product photography.",
+    "image": "images/Electric-Comic-Noir.jpg",
+    "prompt": "Vibrant, high-energy style with swirling neon colors and dramatic lighting. Features expressive characters and a chaotic, psychedelic comic-book aesthetic.",
+    "category": "Artistic",
+    "style": "Electric Comic Noir",
+    "model": "Niji 7",
+    "ratio": "1:1"
   }
 ]
 
