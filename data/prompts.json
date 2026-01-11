@@ -8,7 +8,8 @@
     "category": "Photorealistic",
     "style": "Cyberpunk / Cinematic",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "category": "Anime",
     "style": "Shinkai Style",
     "model": "Niji 6",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "3",
@@ -30,7 +32,8 @@
     "category": "3D Design",
     "style": "Abstract / Glassmorphism",
     "model": "Midjourney v6",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "4",
@@ -41,7 +44,8 @@
     "category": "Artistic",
     "style": "Impasto Oil",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "5",
@@ -52,7 +56,8 @@
     "category": "Artistic",
     "style": "Pixel Art",
     "model": "DALL-E 3",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "6",
@@ -63,7 +68,8 @@
     "category": "Artistic",
     "style": "Watercolor",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "7",
@@ -74,7 +80,8 @@
     "category": "3D Design",
     "style": "Sci-Fi Concept",
     "model": "Grok 1.5 Vision",
-    "ratio": "21:9"
+    "ratio": "21:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "8",
@@ -85,7 +92,8 @@
     "category": "Artistic",
     "style": "Surrealism",
     "model": "Stable Diffusion XL",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "9",
@@ -96,7 +104,8 @@
     "category": "3D Design",
     "style": "Low Poly",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "10",
@@ -107,7 +116,8 @@
     "category": "Artistic",
     "style": "Paper Cut",
     "model": "Midjourney v6",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "11",
@@ -118,7 +128,8 @@
     "category": "3D Design",
     "style": "Claymorphism",
     "model": "Nano Banana Pro",
-    "ratio": "1:1"
+    "ratio": "1:1",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "12",
@@ -129,7 +140,8 @@
     "category": "Artistic",
     "style": "Ukiyo-e",
     "model": "Niji 6",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "13",
@@ -140,7 +152,8 @@
     "category": "Artistic",
     "style": "Pop Art",
     "model": "Grok 1.5 Vision",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "14",
@@ -151,7 +164,8 @@
     "category": "3D Design",
     "style": "Blueprint / Technical",
     "model": "Stable Diffusion 3",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "15",
@@ -162,7 +176,8 @@
     "category": "Artistic",
     "style": "Ink Wash / Cinematic",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "16",
@@ -173,7 +188,8 @@
     "category": "SocialMedia",
     "style": "Social Media Style",
     "model": "Nano Banana Pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "17",
@@ -184,7 +200,8 @@
     "category": "Food",
     "style": "Food",
     "model": "Nano Banana pro 3.0",
-    "ratio": "3:4"
+    "ratio": "3:4",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "18",
@@ -195,7 +212,8 @@
     "category": "Food",
     "style": "Food",
     "model": "Nano Banana pro",
-    "ratio": "16:9"
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "19",
@@ -206,18 +224,32 @@
     "category": "Artistic",
     "style": "Electric Comic Noir",
     "model": "Niji 7",
-    "ratio": "1:1"
+    "ratio": "1:1",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "20",
-    "title": "Ultra-realistic monochrome fine-art fashion photo",
+    "title": "Ultra-realistic monochrome fine-art",
     "description": "Ultra-realistic monochrome fine-art fashion photo",
     "image": "images/Ultra-realistic monochrome fine-art fashion photo.jpg",
     "prompt": "Ultra-realistic monochrome fine-art fashion photo, 1080p. A powerful black horse stands close behind, partially overlapping. Open natural terrain with wild grass, overexposed sky, strong negative space. The subject is wearing a long black one-shoulder evening gown with soft draping and a high thigh slit, paired with nude ankle-strap high-heeled sandals and large metallic hoop earrings. The Subject stands aside the Horse, legs forward, showing her thigh, touching the Horse while Looking at the camera. High contrast, deep blacks, soft highlights, matte cinematic film look with subtle grain, luxury. Use the provided image as a face reference.",
     "category": "Fashion",
     "style": "Ultra-realistic monochrome fine-art",
     "model": "Gemini / Chat GPT",
-    "ratio": "4:3"
+    "ratio": "4:3",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "21",
+    "title": "Ultra-realistic monochrome fine-art",
+    "description": "Ultra-realistic monochrome fine-art fashion photo",
+    "image": "images/Ultra-realistic monochrome fine-art fashion photo.jpg",
+    "prompt": "Ultra-realistic monochrome fine-art fashion photo, 1080p. A powerful black horse stands close behind, partially overlapping. Open natural terrain with wild grass, overexposed sky, strong negative space. The subject is wearing a long black one-shoulder evening gown with soft draping and a high thigh slit, paired with nude ankle-strap high-heeled sandals and large metallic hoop earrings. The Subject stands aside the Horse, legs forward, showing her thigh, touching the Horse while Looking at the camera. High contrast, deep blacks, soft highlights, matte cinematic film look with subtle grain, luxury. Use the provided image as a face reference.",
+    "category": "Fashion",
+    "style": "Ultra-realistic monochrome fine-art",
+    "model": "Gemini / Chat GPT",
+    "ratio": "4:3",
+	"authorUrl": "https://promptwisp.com"
   }
 ]
 
