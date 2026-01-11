@@ -262,6 +262,18 @@
     "model": "Nano Banana pro",
     "ratio": "4:3",
 	"authorUrl": "https://x.com/AllaAisling/status/2010009737816162736"
+  },
+  {
+    "id": "22",
+    "title": "A object or vehicle made of glass,",
+    "description": "metallic or silver structural details",
+    "image": "images/a object or vehicle] made of glass.jpg",
+    "prompt": "[a object or vehicle] made of glass, with [metallic or silver structural details], against a white background, hyper-realistic, in shades of [main color palette], with glowing light inside, in a symmetrical composition, studio photography, cinematic.",
+    "category": "3D Design",
+    "style": "A object or vehicle made of glass",
+    "model": "Nano Banana pro",
+    "ratio": "5:3",
+	"authorUrl": "https://x.com/CharaspowerAI/status/2010041462319174004"
   }
 ]
 
