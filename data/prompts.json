@@ -186,5 +186,17 @@
     "model": "Nano Banana pro 3.0",
     "ratio": "3:4"
   }
+  ,
+  {
+    "id": "18",
+    "title": "Crack Open the Real Taste",
+    "description": "AI-edited hyper-realistic commercial product photography.",
+    "image": "images/Crack-Open-the-Real-Taste.jpg",
+    "prompt": "can_details: material: metal aluminum,condition: vertical tear opening the can,cracks: sharp metallic edges peeling outward,surface: covered with condensation droplets,fruit_elements: banana_slices: multiple thick banana slices erupting from inside,banana_motion: slices floating upward and outward,leaves: large green banana leaves behind the can,liquid_effects: splash_color: creamy yellow liquid,motion: thick splash bursting upward,droplets: small creamy droplets suspended in air,base_splash: yellow liquid pooling at the bottom,background: color: solid bright yellow,tone: clean and vibrant",
+    "category": "Food",
+    "style": "Food",
+    "model": "Nano Banana pro",
+    "ratio": "16:9"
+  }
 ]
 
