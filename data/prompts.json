@@ -174,5 +174,16 @@
     "style": "Social Media Style",
     "model": "Nano Banana Pro",
     "ratio": "16:9"
+  },
+  {
+    "id": "17",
+    "title": "Macro food photography",
+    "description": "A crispy martabak telur tearing open mid-air.",
+    "image": "images/macro-food.jpg",
+    "prompt": "Macro food photography of a crispy martabak telur tearing open mid-air, thin golden wrapper shattering with a crack, hot filling of minced beef, scallions, and egg bursting outward. Flecks of fried onion and pepper suspended in motion, steam visible, glossy oil sheen catching the light. Warm Indonesian street-stall lighting, tungsten + charcoal warmth, dramatic rim light, ultra high texture detail (bubbled wrapper, layered interior).Editorial food shot, shallow depth of field, bokeh of night market signage, Nikon Z9 look, 105mm macro, fast shutter freeze, hyper-real crumbs. --ar 3:4",
+    "category": "Food",
+    "style": "Food",
+    "model": "Nano Banana Pro",
+    "ratio": "3:4"
   }
 ]
