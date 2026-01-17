@@ -2,11 +2,14 @@
   {
     "id": "1",
     "title": "The Cybernetic Watchmaker 1",
-    "description": "A detailed cinematic portrait combining human warmth with mechanical complexity.",
     "image": "images/cybernetic_watchmaker.jpg",
     "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
     "category": "Photorealistic",
-    "style": "Cyberpunk / Cinematic",
+    "tags": [
+      "Cyberpunk",
+      "Cinematic",
+      "Portrait"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -14,11 +17,14 @@
   {
     "id": "2",
     "title": "Rainy Station Sunset 1",
-    "description": "Emotional anime background art inspired by Makoto Shinkai's signature style.",
     "image": "images/anime_rainy_station.jpg",
     "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
     "category": "Anime",
-    "style": "Shinkai Style",
+    "tags": [
+      "Shinkai Style",
+      "Scenery",
+      "Atmospheric"
+    ],
     "model": "Niji 6",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -26,11 +32,14 @@
   {
     "id": "3",
     "title": "Iridescent Glass Shapes 1",
-    "description": "Modern abstract 3D composition featuring glass morphism and soft gradients.",
     "image": "images/glass_morphism_shapes.jpg",
     "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
     "category": "3D Design",
-    "style": "Abstract / Glassmorphism",
+    "tags": [
+      "Abstract",
+      "Glassmorphism",
+      "3D Render"
+    ],
     "model": "Midjourney v6",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -38,11 +47,14 @@
   {
     "id": "4",
     "title": "Lighthouse in the Storm 1",
-    "description": "Expressive impasto oil painting capturing the raw power of nature.",
     "image": "images/oil_painting_lighthouse.jpg",
     "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
     "category": "Artistic",
-    "style": "Impasto Oil",
+    "tags": [
+      "Impasto Oil",
+      "Fine Art",
+      "Seascape"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -50,11 +62,14 @@
   {
     "id": "5",
     "title": "Neon Cyber City 1",
-    "description": "Retro-futuristic cityscape in high-detail pixel art style.",
     "image": "images/pixel_art_city.jpg",
     "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
     "category": "Artistic",
-    "style": "Pixel Art",
+    "tags": [
+      "Pixel Art",
+      "Retro",
+      "Cityscape"
+    ],
     "model": "DALL-E 3",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -62,11 +77,14 @@
   {
     "id": "6",
     "title": "Floating Dream Island 1",
-    "description": "Ethereal floating island landscape in soft watercolor.",
     "image": "images/watercolor_dream_landscape.jpg",
     "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
     "category": "Artistic",
-    "style": "Watercolor",
+    "tags": [
+      "Watercolor",
+      "Fantasy",
+      "Pastel"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -74,11 +92,14 @@
   {
     "id": "7",
     "title": "Orbital Space Station 1",
-    "description": "Grand sci-fi vista of a space station orbiting a blue gas giant.",
-    "image": "images/scifi_space_station.jpg",
+    "image": "images/scifi_space_station.png",
     "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
     "category": "3D Design",
-    "style": "Sci-Fi Concept",
+    "tags": [
+      "Sci-Fi",
+      "Space",
+      "Concept Art"
+    ],
     "model": "Grok 1.5 Vision",
     "ratio": "21:9",
     "authorUrl": "https://promptwisp.com"
@@ -86,11 +107,14 @@
   {
     "id": "8",
     "title": "Surreal Desert Chess 1",
-    "description": "Dreamlike surrealist landscape with giant melting chess pieces.",
     "image": "images/surreal_chess_desert.jpg",
     "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
     "category": "Artistic",
-    "style": "Surrealism",
+    "tags": [
+      "Surrealism",
+      "Dali Style",
+      "Dreamlike"
+    ],
     "model": "Stable Diffusion XL",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -98,11 +122,14 @@
   {
     "id": "9",
     "title": "Low Poly Mountains 1",
-    "description": "Minimalist low poly landscape with vibrant colors.",
     "image": "images/low_poly_mountains.jpg",
     "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
     "category": "3D Design",
-    "style": "Low Poly",
+    "tags": [
+      "Low Poly",
+      "Minimalist",
+      "Landscape"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -110,11 +137,14 @@
   {
     "id": "10",
     "title": "Paper Cutout Forest 1",
-    "description": "Whimsical layered paper art of a magical forest.",
     "image": "images/paper_cut_forest.jpg",
     "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
     "category": "Artistic",
-    "style": "Paper Cut",
+    "tags": [
+      "Paper Cut",
+      "Craft",
+      "Whimsical"
+    ],
     "model": "Midjourney v6",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -122,11 +152,14 @@
   {
     "id": "11",
     "title": "Claymorphism Robot Garden 1",
-    "description": "Cute and friendly 3D clay robot in a tiny garden.",
     "image": "images/clay_robot_garden.jpg",
     "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
     "category": "3D Design",
-    "style": "Claymorphism",
+    "tags": [
+      "Claymorphism",
+      "Cute",
+      "3D Art"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "1:1",
     "authorUrl": "https://promptwisp.com"
@@ -134,11 +167,14 @@
   {
     "id": "12",
     "title": "Ukiyo-e Surfing Cat 1",
-    "description": "Traditional Japanese woodblock print with a whimsical twist.",
-    "image": "images/ukiyoe_surfing_cat.jpg",
+    "image": "images/ukiyoe_surfing_cat.png",
     "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
     "category": "Artistic",
-    "style": "Ukiyo-e",
+    "tags": [
+      "Ukiyo-e",
+      "Japanese",
+      "Cat"
+    ],
     "model": "Niji 6",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -146,11 +182,14 @@
   {
     "id": "13",
     "title": "Pop Art Astronaut 1",
-    "description": "Vibrant Andy Warhol style portrait with bold colors.",
     "image": "images/pop_art_astronaut.jpg",
     "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
     "category": "Artistic",
-    "style": "Pop Art",
+    "tags": [
+      "Pop Art",
+      "Retro",
+      "Portrait"
+    ],
     "model": "Grok 1.5 Vision",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
@@ -158,134 +197,856 @@
   {
     "id": "14",
     "title": "Steampunk Blueprint 1",
-    "description": "Detailed technical schematic of a time machine.",
     "image": "images/blueprint_time_machine.jpg",
     "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
     "category": "3D Design",
-    "style": "Blueprint / Technical",
+    "tags": [
+      "Blueprint",
+      "Steampunk",
+      "Technical"
+    ],
     "model": "Stable Diffusion 3",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "15",
-    "title": "Ink Wash China Trend Portrait",
-    "description": "Extreme black-and-white collision.",
-    "image": "images/wukong.jpg",
-    "prompt": "Extreme black-and-white collision aesthetic.Bold heavy ink mass silhouettes for shaping, feibai brushstrokes for freehand expression, while the facial features are rendered with clean, sharp, ultra-fine precise linework.Half-body turning-back glance, large area of “reserved white space” on the right to create spatial depth and atmosphere, pierced through by one strong S-shaped dynamic element (flowing hair / ink traces / fluttering ribbons) that runs across the entire composition, pushing visual tension to the absolute maximum.Signature: Bottom right corner, handwritten signature style reading 「PromptWisp」, using a simple, continuous-stroke black ink pen style — small, restrained, clearly legible, and not overlapping the main subject. No other readable text or duplicate signatures may appear besides this one.Subject: [wukong].",
-    "category": "Artistic",
-    "style": "Ink Wash / Cinematic",
+    "title": "The Cybernetic Watchmaker 2",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "tags": [
+      "Cyberpunk",
+      "Cinematic",
+      "Portrait"
+    ],
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "16",
-    "title": "Dinner with Person or Animal",
-    "description": "Eating with Person or Animal,with Social Media Picture as background.",
-    "image": "images/dinner.jpg",
-    "prompt": "Hyper-realistic top-down macro photography. A long, light green WhatsApp speech bubble acting as a dining table. Two real living humans (shrunk to tiny scale) are sitting at opposite ends. They are NOT plastic figures; they have visible skin texture, natural hair, and realistic clothing folds. They are eating real food that looks freshly cooked, not play-doh. The text inside reads:“text“. Bottom right has a timestamp “3:33 PM“ and blue ticks. The background is completely filled with a high-density, seamless WhatsApp doodle pattern (line art icons) covering the entire surface edge-to-edge with no empty spaces, resembling the original dense WhatsApp wallpaper. Professional studio lighting, 8k resolution, sharp focus.",
-    "category": "SocialMedia",
-    "style": "Social Media Style",
-    "model": "Nano Banana Pro",
+    "title": "Rainy Station Sunset 2",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "tags": [
+      "Shinkai Style",
+      "Scenery",
+      "Atmospheric"
+    ],
+    "model": "Niji 6",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "17",
-    "title": "Macro food photography",
-    "description": "A crispy martabak telur tearing open mid-air.",
-    "image": "images/macro-food.jpg",
-    "prompt": "Macro food photography of a crispy martabak telur tearing open mid-air, thin golden wrapper shattering with a crack, hot filling of minced beef, scallions, and egg bursting outward. Flecks of fried onion and pepper suspended in motion, steam visible, glossy oil sheen catching the light. Warm Indonesian street-stall lighting, tungsten + charcoal warmth, dramatic rim light, ultra high texture detail (bubbled wrapper, layered interior).Editorial food shot, shallow depth of field, bokeh of night market signage, Nikon Z9 look, 105mm macro, fast shutter freeze, hyper-real crumbs. --ar 3:4",
-    "category": "Food",
-    "style": "Food",
-    "model": "Nano Banana pro 3.0",
-    "ratio": "3:4",
-    "authorUrl": "https://x.com/Just_sharon7/status/2009937038670540843"
+    "title": "Iridescent Glass Shapes 2",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "tags": [
+      "Abstract",
+      "Glassmorphism",
+      "3D Render"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "18",
-    "title": "Crack Open the Real Taste",
-    "description": "AI-edited hyper-realistic commercial product photography.",
-    "image": "images/Crack-Open-the-Real-Taste.jpg",
-    "prompt": "can_details: material: metal aluminum,condition: vertical tear opening the can,cracks: sharp metallic edges peeling outward,surface: covered with condensation droplets,fruit_elements: banana_slices: multiple thick banana slices erupting from inside,banana_motion: slices floating upward and outward,leaves: large green banana leaves behind the can,liquid_effects: splash_color: creamy yellow liquid,motion: thick splash bursting upward,droplets: small creamy droplets suspended in air,base_splash: yellow liquid pooling at the bottom,background: color: solid bright yellow,tone: clean and vibrant",
-    "category": "Food",
-    "style": "Food",
-    "model": "Nano Banana pro",
+    "title": "Lighthouse in the Storm 2",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "tags": [
+      "Impasto Oil",
+      "Fine Art",
+      "Seascape"
+    ],
+    "model": "Nano Banana Pro",
     "ratio": "16:9",
-    "authorUrl": "https://x.com/meng_dagg695/status/2009947657905811727"
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "19",
-    "title": "Electric Comic Noir",
-    "description": "AI-edited hyper-realistic commercial product photography.",
-    "image": "images/Electric-Comic-Noir.jpg",
-    "prompt": "Vibrant, high-energy style with swirling neon colors and dramatic lighting. Features expressive characters and a chaotic, psychedelic comic-book aesthetic.",
+    "title": "Neon Cyber City 2",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
     "category": "Artistic",
-    "style": "Electric Comic Noir",
-    "model": "Niji 7",
-    "ratio": "1:1",
-    "authorUrl": "https://x.com/Midlibrary_io/status/2009942544885657647"
+    "tags": [
+      "Pixel Art",
+      "Retro",
+      "Cityscape"
+    ],
+    "model": "DALL-E 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "20",
-    "title": "Ultra-realistic monochrome fine-art",
-    "description": "Ultra-realistic monochrome fine-art fashion photo",
-    "image": "images/Ultra-realistic monochrome fine-art fashion photo.jpg",
-    "prompt": "Ultra-realistic monochrome fine-art fashion photo, 1080p. A powerful black horse stands close behind, partially overlapping. Open natural terrain with wild grass, overexposed sky, strong negative space. The subject is wearing a long black one-shoulder evening gown with soft draping and a high thigh slit, paired with nude ankle-strap high-heeled sandals and large metallic hoop earrings. The Subject stands aside the Horse, legs forward, showing her thigh, touching the Horse while Looking at the camera. High contrast, deep blacks, soft highlights, matte cinematic film look with subtle grain, luxury. Use the provided image as a face reference.",
-    "category": "Fashion",
-    "style": "Ultra-realistic monochrome fine-art",
-    "model": "Gemini/Chat GPT",
-    "ratio": "4:3",
-    "authorUrl": "https://x.com/23rd_Pulikesi/status/2009906362718007571"
+    "title": "Floating Dream Island 2",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "tags": [
+      "Watercolor",
+      "Fantasy",
+      "Pastel"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "21",
-    "title": "Tradition power and couture",
-    "description": "styled for the cover",
-    "image": "images/styled for the cover.jpg",
-    "prompt": "Create an ultra-photorealistic, high-contrast black-and-white Vogue-style editorial full-body portrait of a woman. Use the uploaded reference image strictly to preserve the original face, identity, and facial structure — do not alter facial features, proportions, or expressions. She is styled in a traditional South Indian Kanjivaram half-lehenga saree ensemble, rendered in rich monochrome tones that accentuate silk sheen, zari craftsmanship, and dramatic fabric movement. The tailored blouse, flowing A-line skirt, and long dupatta (voni/pallu) are composed with couture-level precision and editorial drama.nShe is adorned with statement South Indian gold jewelry translated into bold metallic highlights—an ornate choker, sculptural jhumka earrings, stacked bangles, and a structured kamarbandh waist belt—each catching light with striking contrast. A long jasmine gajra frames her hair, adding organic softness against the sharp styling.nPose and body language: Captured mid-stride on the stone staircase of an ancient temple entrance, her posture is elongated and commanding. Both hands gather the skirt with intention, one foot lifted forward, shoulders strong and poised, evoking runway confidence.nExpression and gaze: A powerful, composed expression with a confident side gaze, embodying modern elegance, heritage pride, and high-fashion authority.nBackground and environment: Monumental South Indian temple architecture inspired by Tirupati Mandir, softly defocused yet texturally rich, serving as a dramatic editorial backdrop.nLighting and quality: Bold, directional studio-style lighting adapted to a natural environment, producing sharp highlights and deep shadows for maximum contrast. Emphasizes facial structure, jewelry reflections, fabric textures, and architectural depth. Shot in cinematic monochrome with fine film grain, DSLR-level sharpness, shallow depth of field, Vogue-style framing, and ultra-realistic 8K clarity.nImportant: Preserve the original face, identity, and facial structure with absolute accuracy.negative_prompt:face alteration, changed facial features, soft or flat lighting, low contrast, unrealistic skin texture, cartoon or stylized art, blur, low resolution, distorted anatomy, extra limbs, incorrect traditional elements, modern props, color tones.aspect_ratio:2:3.style:high-contrast Vogue editorial black-and-white.quality:luxury magazine grade, ultra-realistic.lighting:dramatic high-contrast directional lighting.camera:DSLR, 85mm editorial lens look, shallow depth of field.resolution:8K monochrome couture finish.",
-    "category": "Fashion",
-    "style": "Styled for the cover",
-    "model": "Gemini/ChatGPT/Grok",
-    "ratio": "2:3",
-	"authorUrl": "https://x.com/me_Aarvi/status/2010149771726741724"
+    "title": "Orbital Space Station 2",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "tags": [
+      "Sci-Fi",
+      "Space",
+      "Concept Art"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "22",
-    "title": "Epic 3D scene",
-    "description": "Massive architectural blueprint",
-    "image": "images/Epic 3D scene.jpg",
-    "prompt": "pinned to a drafting table, its ink lines rising off the paper into fully realized construction. Blue lines become steel beams mid-weld, floor plans inflate into furnished rooms, elevation drawings push outward into facades with working windows. Construction phases coexist simultaneously: foundation being poured in one corner while the penthouse is already inhabited in another. Tiny workers, cranes, and scaffolding swarm the rising structure. The flat drawing and the living building merge at impossible angles. Technical annotations float as dimensional signage. Architect's coffee cup sits at the edge, casting shadow across unbuilt sections. Extreme scale contrast, construction dust catching afternoon light, 8K, photorealistic",
-    "category": "3D Design",
-    "style": "Massive architectural blueprint",
-    "model": "Nano Banana pro",
-    "ratio": "4:3",
-	"authorUrl": "https://x.com/AllaAisling/status/2010009737816162736"
+    "title": "Surreal Desert Chess 2",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "tags": [
+      "Surrealism",
+      "Dali Style",
+      "Dreamlike"
+    ],
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "23",
-    "title": "A object or vehicle made of glass",
-    "description": "metallic or silver structural details",
-    "image": "images/a object or vehicle made of glass.jpg",
-    "prompt": "[a object or vehicle] made of glass, with [metallic or silver structural details], against a white background, hyper-realistic, in shades of [main color palette], with glowing light inside, in a symmetrical composition, studio photography, cinematic.",
+    "title": "Low Poly Mountains 2",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
     "category": "3D Design",
-    "style": "object or vehicle inner glass",
-    "model": "Nano Banana pro",
-    "ratio": "5:3",
-	"authorUrl": "https://x.com/CharaspowerAI/status/2010041462319174004"
+    "tags": [
+      "Low Poly",
+      "Minimalist",
+      "Landscape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   },
   {
     "id": "24",
-    "title": "Anime Graffiti Studio Portrait",
-    "description": "harsh-edged cinematic studio lighting with strong highlights",
-    "image": "images/Anime Graffiti Studio Portrait.jpg",
-    "prompt": "A full-body studio portrait using the uploaded reference image strictly to preserve the original female face, identity, and facial structure (do not alter facial features, proportions, or expressions). The subject wears a steel-gray cropped denim jacket layered over a fitted white ribbed top, paired with high-waisted charcoal jogger pants and sleek black sneakers, blending raw urban energy with modern feminine street style. Natural body contours, realistic skin texture, and detailed fabric stitching are clearly visible under dramatic, harsh-edged cinematic lighting that creates bold contrast and sculpted depth. Beside the subject stands an anime-style graffiti version of her, illustrated with expressive line work, vibrant outlines, and subtle neon accents, leaning casually against an implied hand-drawn wall—merging realism with stylized street art culture. The studio environment features a warm sunrise-gray backdrop with soft sketch-like projections, paint splatter motifs, and layered graffiti textures, creating a seamless fusion of photography and illustration. Ultra-realistic, cinematic composition with editorial framing, sharp focus, high contrast, and premium studio photography aesthetics inspired by urban fashion editorials.style: cinematic realism with anime graffiti fusion.lighting: harsh-edged cinematic studio lighting with strong highlights.camera: full-body studio shot, editorial composition, sharp focus.mood: confident, edgy, artistic.quality: ultra-high resolution, hyper-detailed, professional realism",
+    "title": "Paper Cutout Forest 2",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "tags": [
+      "Paper Cut",
+      "Craft",
+      "Whimsical"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "25",
+    "title": "Claymorphism Robot Garden 2",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
     "category": "3D Design",
-    "style": "cinematic realism with anime graffiti fusion",
-    "model": "Gemini/ChatGPT/Grok",
+    "tags": [
+      "Claymorphism",
+      "Cute",
+      "3D Art"
+    ],
+    "model": "Nano Banana Pro",
     "ratio": "1:1",
-	"authorUrl": "https://x.com/me_Aarvi/status/2009891733967180262"
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "26",
+    "title": "Ukiyo-e Surfing Cat 2",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "tags": [
+      "Ukiyo-e",
+      "Japanese",
+      "Cat"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "27",
+    "title": "Pop Art Astronaut 2",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "tags": [
+      "Pop Art",
+      "Retro",
+      "Portrait"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "28",
+    "title": "Steampunk Blueprint 2",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "tags": [
+      "Blueprint",
+      "Steampunk",
+      "Technical"
+    ],
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "29",
+    "title": "The Cybernetic Watchmaker 3",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "tags": [
+      "Cyberpunk",
+      "Cinematic",
+      "Portrait"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "30",
+    "title": "Rainy Station Sunset 3",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "tags": [
+      "Shinkai Style",
+      "Scenery",
+      "Atmospheric"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "31",
+    "title": "Iridescent Glass Shapes 3",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "tags": [
+      "Abstract",
+      "Glassmorphism",
+      "3D Render"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "32",
+    "title": "Lighthouse in the Storm 3",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "tags": [
+      "Impasto Oil",
+      "Fine Art",
+      "Seascape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "33",
+    "title": "Neon Cyber City 3",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "tags": [
+      "Pixel Art",
+      "Retro",
+      "Cityscape"
+    ],
+    "model": "DALL-E 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "34",
+    "title": "Floating Dream Island 3",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "tags": [
+      "Watercolor",
+      "Fantasy",
+      "Pastel"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "35",
+    "title": "Orbital Space Station 3",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "tags": [
+      "Sci-Fi",
+      "Space",
+      "Concept Art"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "36",
+    "title": "Surreal Desert Chess 3",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "tags": [
+      "Surrealism",
+      "Dali Style",
+      "Dreamlike"
+    ],
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "37",
+    "title": "Low Poly Mountains 3",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "tags": [
+      "Low Poly",
+      "Minimalist",
+      "Landscape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "38",
+    "title": "Paper Cutout Forest 3",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "tags": [
+      "Paper Cut",
+      "Craft",
+      "Whimsical"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "39",
+    "title": "Claymorphism Robot Garden 3",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "tags": [
+      "Claymorphism",
+      "Cute",
+      "3D Art"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "1:1",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "40",
+    "title": "Ukiyo-e Surfing Cat 3",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "tags": [
+      "Ukiyo-e",
+      "Japanese",
+      "Cat"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "41",
+    "title": "Pop Art Astronaut 3",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "tags": [
+      "Pop Art",
+      "Retro",
+      "Portrait"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "42",
+    "title": "Steampunk Blueprint 3",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "tags": [
+      "Blueprint",
+      "Steampunk",
+      "Technical"
+    ],
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "43",
+    "title": "The Cybernetic Watchmaker 4",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "tags": [
+      "Cyberpunk",
+      "Cinematic",
+      "Portrait"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "44",
+    "title": "Rainy Station Sunset 4",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "tags": [
+      "Shinkai Style",
+      "Scenery",
+      "Atmospheric"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "45",
+    "title": "Iridescent Glass Shapes 4",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "tags": [
+      "Abstract",
+      "Glassmorphism",
+      "3D Render"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "46",
+    "title": "Lighthouse in the Storm 4",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "tags": [
+      "Impasto Oil",
+      "Fine Art",
+      "Seascape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "47",
+    "title": "Neon Cyber City 4",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "tags": [
+      "Pixel Art",
+      "Retro",
+      "Cityscape"
+    ],
+    "model": "DALL-E 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "48",
+    "title": "Floating Dream Island 4",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "tags": [
+      "Watercolor",
+      "Fantasy",
+      "Pastel"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "49",
+    "title": "Orbital Space Station 4",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "tags": [
+      "Sci-Fi",
+      "Space",
+      "Concept Art"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "50",
+    "title": "Surreal Desert Chess 4",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "tags": [
+      "Surrealism",
+      "Dali Style",
+      "Dreamlike"
+    ],
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "51",
+    "title": "Low Poly Mountains 4",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "tags": [
+      "Low Poly",
+      "Minimalist",
+      "Landscape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "52",
+    "title": "Paper Cutout Forest 4",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "tags": [
+      "Paper Cut",
+      "Craft",
+      "Whimsical"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "53",
+    "title": "Claymorphism Robot Garden 4",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "tags": [
+      "Claymorphism",
+      "Cute",
+      "3D Art"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "1:1",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "54",
+    "title": "Ukiyo-e Surfing Cat 4",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "tags": [
+      "Ukiyo-e",
+      "Japanese",
+      "Cat"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "55",
+    "title": "Pop Art Astronaut 4",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "tags": [
+      "Pop Art",
+      "Retro",
+      "Portrait"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "56",
+    "title": "Steampunk Blueprint 4",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "tags": [
+      "Blueprint",
+      "Steampunk",
+      "Technical"
+    ],
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "57",
+    "title": "The Cybernetic Watchmaker 5",
+    "image": "images/cybernetic_watchmaker.jpg",
+    "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
+    "category": "Photorealistic",
+    "tags": [
+      "Cyberpunk",
+      "Cinematic",
+      "Portrait"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "58",
+    "title": "Rainy Station Sunset 5",
+    "image": "images/anime_rainy_station.jpg",
+    "prompt": "Makoto Shinkai style anime background art, a girl standing on a train station platform during a rainy sunset, reflections on wet pavement, vibrant clouds, lens flare, emotional atmosphere, high quality, detailed, anime art style.",
+    "category": "Anime",
+    "tags": [
+      "Shinkai Style",
+      "Scenery",
+      "Atmospheric"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "59",
+    "title": "Iridescent Glass Shapes 5",
+    "image": "images/glass_morphism_shapes.jpg",
+    "prompt": "3D abstract glass morphism composition, floating geometric shapes with iridescent textures, soft pastel gradients, frosted glass effects, ray tracing, studio lighting, minimal and clean, 4k resolution, 3d render.",
+    "category": "3D Design",
+    "tags": [
+      "Abstract",
+      "Glassmorphism",
+      "3D Render"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "60",
+    "title": "Lighthouse in the Storm 5",
+    "image": "images/oil_painting_lighthouse.jpg",
+    "prompt": "Thick impasto oil painting of a stormy ocean crashing against a lighthouse, expressive brushstrokes, palette knife texture, moody dark blue and turquoise colors with foam white highlights, dynamic movement, masterpiece, oil painting style.",
+    "category": "Artistic",
+    "tags": [
+      "Impasto Oil",
+      "Fine Art",
+      "Seascape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "61",
+    "title": "Neon Cyber City 5",
+    "image": "images/pixel_art_city.jpg",
+    "prompt": "Isometric pixel art of a neon-lit cyberpunk city street at night, rain puddles reflecting pink and blue lights, detailed shops with japanese kanji signs, vending machines, stray cat, 16-bit retro game style, high detail.",
+    "category": "Artistic",
+    "tags": [
+      "Pixel Art",
+      "Retro",
+      "Cityscape"
+    ],
+    "model": "DALL-E 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "62",
+    "title": "Floating Dream Island 5",
+    "image": "images/watercolor_dream_landscape.jpg",
+    "prompt": "Soft pastel watercolor painting of a dreamy floating island with waterfalls cascading into clouds, cherry blossom trees, ethereal atmosphere, wet-on-wet technique, paper texture, delicate brushstrokes, fantasy art.",
+    "category": "Artistic",
+    "tags": [
+      "Watercolor",
+      "Fantasy",
+      "Pastel"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "63",
+    "title": "Orbital Space Station 5",
+    "image": "images/scifi_space_station.png",
+    "prompt": "Cinematic shot of a massive ring-shaped space station orbiting a blue gas giant planet, intricate mechanical details, realistic lighting, lens flare, starry background, 8k resolution, sci-fi concept art, interstellar movie style.",
+    "category": "3D Design",
+    "tags": [
+      "Sci-Fi",
+      "Space",
+      "Concept Art"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "21:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "64",
+    "title": "Surreal Desert Chess 5",
+    "image": "images/surreal_chess_desert.jpg",
+    "prompt": "Surrealist composition of giant melting chess pieces in a vast red desert, dali style, long shadows, dreamlike atmosphere, mysterious monolithic structures in background, hyperrealistic texture, golden hour lighting.",
+    "category": "Artistic",
+    "tags": [
+      "Surrealism",
+      "Dali Style",
+      "Dreamlike"
+    ],
+    "model": "Stable Diffusion XL",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "65",
+    "title": "Low Poly Mountains 5",
+    "image": "images/low_poly_mountains.jpg",
+    "prompt": "Low poly art style landscape of snowy mountains at sunrise, geometric polygons, vibrant orange and purple gradient sky, reflection in a calm polygonal lake, minimal and clean, 3d render style.",
+    "category": "3D Design",
+    "tags": [
+      "Low Poly",
+      "Minimalist",
+      "Landscape"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "66",
+    "title": "Paper Cutout Forest 5",
+    "image": "images/paper_cut_forest.jpg",
+    "prompt": "Layered paper cut craft art of a magical forest, depth of field, soft warm backlighting, intricate paper details, shadows between layers, whimsical fairy tale atmosphere, pastel colors.",
+    "category": "Artistic",
+    "tags": [
+      "Paper Cut",
+      "Craft",
+      "Whimsical"
+    ],
+    "model": "Midjourney v6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "67",
+    "title": "Claymorphism Robot Garden 5",
+    "image": "images/clay_robot_garden.jpg",
+    "prompt": "Cute 3D claymorphism render of a friendly round robot watering flowers in a tiny garden, soft plasticine texture, rounded edges, pastel colors, bright soft lighting, isometric view, high quality 3d art.",
+    "category": "3D Design",
+    "tags": [
+      "Claymorphism",
+      "Cute",
+      "3D Art"
+    ],
+    "model": "Nano Banana Pro",
+    "ratio": "1:1",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "68",
+    "title": "Ukiyo-e Surfing Cat 5",
+    "image": "images/ukiyoe_surfing_cat.png",
+    "prompt": "Japanese woodblock print ukiyo-e style of a giant wave with Mount Fuji in background, but a cute cat is surfing on the wave, traditional texture, washi paper grain, vintage colors, detailed linework.",
+    "category": "Artistic",
+    "tags": [
+      "Ukiyo-e",
+      "Japanese",
+      "Cat"
+    ],
+    "model": "Niji 6",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "69",
+    "title": "Pop Art Astronaut 5",
+    "image": "images/pop_art_astronaut.jpg",
+    "prompt": "Vibrant pop art portrait of an astronaut, Andy Warhol style, bold black outlines, bright solid colors (yellow, pink, cyan), halftone dots pattern, retro comic book aesthetic.",
+    "category": "Artistic",
+    "tags": [
+      "Pop Art",
+      "Retro",
+      "Portrait"
+    ],
+    "model": "Grok 1.5 Vision",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
+  },
+  {
+    "id": "70",
+    "title": "Steampunk Blueprint 5",
+    "image": "images/blueprint_time_machine.jpg",
+    "prompt": "Detailed technical blueprint schematic of a steampunk time machine, white lines on dark blue background, technical annotations, grid lines, cross-section view, engineering drawing style.",
+    "category": "3D Design",
+    "tags": [
+      "Blueprint",
+      "Steampunk",
+      "Technical"
+    ],
+    "model": "Stable Diffusion 3",
+    "ratio": "16:9",
+    "authorUrl": "https://promptwisp.com"
   }
 ]
-
