@@ -6,7 +6,7 @@
     "image": "images/cybernetic_watchmaker.jpg",
     "prompt": "Cinematic portrait of an elderly cybernetic watchmaker fixing a glowing mechanical eye, intricate details, dramatic lighting, 8k resolution, photorealistic, shallow depth of field, cyberpunk atmosphere, warm tungsten lighting against cool blue background shadows.",
     "category": "Photorealistic",
-    "style": "Cyberpunk"
+    "style": "Cyberpunk",
     "model": "Nano Banana Pro",
     "ratio": "16:9",
     "authorUrl": "https://promptwisp.com"
