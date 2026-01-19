@@ -314,5 +314,19 @@
     "tags": [
       "Cinematic"
     ]
+  },
+  {
+    "id": "25",
+    "title": "3D Character Expressions Sticker",
+    "image": "images/3d-character-expressions-sticker.jpg",
+    "prompt": "Use uploaded photos,Create a 3D character design, blind box style, Pop Mart aesthetic, C4D, Octane render, clay texture, matte finish, soft lighting, sticker sheet layout, 3x3 grid view, 9 different expressions: happy making heart gesture, sad with tears, angry with steam, sleepy yawning, surprised with open mouth, shy blushing, cheering with fist, confused thinking, celebrating with confetti,each with cute text label in English,white outline, die-cut, white background",
+    "category": "3D Design",
+    "model": "Gemini",
+    "ratio": "9:16",
+    "authorUrl": "https://nano-banana2.ai/nano-banana-pro-prompts/3d-character-expressions-sticker",
+    "tags": [
+      "Sticker",
+      "3D"
+    ]
   }
 ]
