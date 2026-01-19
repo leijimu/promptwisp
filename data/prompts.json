@@ -321,11 +321,25 @@
     "image": "images/3d-character-expressions-sticker.jpg",
     "prompt": "Use uploaded photos,Create a 3D character design, blind box style, Pop Mart aesthetic, C4D, Octane render, clay texture, matte finish, soft lighting, sticker sheet layout, 3x3 grid view, 9 different expressions: happy making heart gesture, sad with tears, angry with steam, sleepy yawning, surprised with open mouth, shy blushing, cheering with fist, confused thinking, celebrating with confetti,each with cute text label in English,white outline, die-cut, white background",
     "category": "3D Design",
-    "model": "Gemini",
+    "model": "Nano Banana Pro",
     "ratio": "9:16",
     "authorUrl": "https://nano-banana2.ai/nano-banana-pro-prompts/3d-character-expressions-sticker",
     "tags": [
       "Sticker",
+      "3D"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Hyper-Detailed Cinematic 3D Miniature Scene",
+    "image": "images/hyper-detailed-cinematic-3D-miniature-scene.jpg",
+    "prompt": "Create a 3D digital human comics-style character with a Pixar-style, high-quality, photorealistic render. The character has a detailed, complex, and lifelike anatomy, with a complex, detailed, and lifelike expression. The character is rendered in a 3D environment, with a complex, detailed, and lifelike environment. The character is rendered in a 3D environment, with a complex, detailed, and lifelike environment.",
+    "category": "3D Design",
+    "model": "Nano Banana Pro",
+    "ratio": "3:4",
+    "authorUrl": "https://nano-banana2.ai/nano-banana-pro-prompts/hyper-detailed-cinematic-3D-miniature-scene",
+    "tags": [
+      "Cinematic",
       "3D"
     ]
   }
