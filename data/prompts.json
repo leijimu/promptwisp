@@ -342,5 +342,19 @@
       "Cinematic",
       "3D"
     ]
+  },
+  {
+    "id": "27",
+    "title": "Cloud Objects",
+    "image": "images/cloud-objects.jpg",
+    "prompt": "Create an ultra-realistic sky scene where soft, natural cloud formations organically assemble into the clear silhouette of a [kobe bryant]. The cloud shape appears high in a vibrant blue sky, naturally floating above a recognizable nature below.The composition is square (1080×1080), with the cloud formation occupying the upper portion of the frame while the landscape grounds the scene beneath it. Lighting is crisp and daylight-bright, with sunlit highlights on the clouds that enhance depth, softness, and realism.The overall mood should feel calm, optimistic, and visually striking, with rich color saturation and a clean, peaceful atmosphere.",
+    "category": "Artistic",
+    "model": "Nano Banana Pro",
+    "ratio": "1:1",
+    "authorUrl": "https://nano-banana2.ai/nano-banana-pro-prompts/cloud-objects",
+    "tags": [
+      "Cloud",
+      "Nature"
+    ]
   }
 ]
