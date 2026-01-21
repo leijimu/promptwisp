@@ -370,5 +370,18 @@
       "Sport",
       "3D"
     ]
+  },
+  {
+    "id": "29",
+    "title": "Watercolor map of Germany with labeled states",
+    "image": "images/Watercolor map of Germany with labeled states.jpg",
+    "prompt": "Generate a map of Germany in watercolor style, on which all federal states are labeled in ballpoint pen.",
+    "category": "Artistic",
+    "model": "Nano Banana Pro",
+    "ratio": "16:9",
+    "authorUrl": "https://x.com/FlorianGallwitz/status/1991796624646091091",
+    "tags": [
+      "map"
+    ]
   }
 ]
