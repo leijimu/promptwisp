@@ -396,5 +396,18 @@
     "tags": [
       "Person"
     ]
+  },
+  {
+    "id": "31",
+    "title": "Moody cinematic portrait of a young woman",
+    "image": "images/G_ZuS4ia4AA3xBK.jpg",
+    "prompt": "Moody cinematic portrait of a young woman with clear fair skin and barely-there makeup, warm natural lips. Loose dark brown hair, softly textured. Calm, self-assured expression. She’s wearing a fitted  brown top clean lines, understated elegance. Dark minimal background fading into black. Gentle diffused front light, soft shadows, subtle film grain, organic color grading, shallow depth of field, high-end editorial feel.",
+    "category": "Artistic",
+    "model": "Nano Banana Pro",
+    "ratio": "9:16",
+    "authorUrl": "https://x.com/oggii_0/status/2014919157947760813",
+    "tags": [
+      "Person"
+    ]
   }
 ]
