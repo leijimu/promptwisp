@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PromptWisp - AI Image Prompt Gallery & Inspiration</title>
+    <meta name="description" content="Discover curated high-quality AI image generation prompts for Nano Banana Pro. Explore styles including Photorealistic, Anime, 3D Design, and Artistic at PromptWisp." />
+    <meta name="keywords" content="AI prompts, prompt engineering, AI art gallery, Nano Banana Pro, text to image, PromptWisp, AI design inspiration" />
+    <meta name="author" content="PromptWisp" />
+    <link rel="canonical" href="https://promptwisp.com/" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LMS62WN295"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LMS62WN295');
+</script>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://promptwisp.com/" />
+    <meta property="og:title" content="PromptWisp - AI Image Prompt Gallery & Inspiration" />
+    <meta property="og:description" content="Discover curated high-quality AI image generation prompts. Explore infinite creativity." />
+    <meta property="og:image" content="https://promptwisp.com/cover.jpg" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://promptwisp.com/" />
+    <meta property="twitter:title" content="PromptWisp - AI Image Prompt Gallery & Inspiration" />
+    <meta property="twitter:description" content="Discover curated high-quality AI image generation prompts. Explore infinite creativity." />
+    <meta property="twitter:image" content="https://promptwisp.com/cover.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <link rel="shortcut icon" href="https://promptwisp.com/favicon.png" type="image/png" />
+    <link rel="icon" href="https://promptwisp.com/favicon.ico" type="image/x-ico" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0830628158749802"
+     crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="/">
+          <span class="brand-mark">🍌</span>
+          <span class="brand-name">PromptWisp</span>
+        </a>
+        <div class="search-wrap">
+          <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input id="searchInput" type="search" placeholder="Search prompts, styles, keywords..." autocomplete="off" />
+        </div>
+        <div class="header-right">
+          <label class="lang-select">
+            <select id="langSelect" aria-label="Language"></select>
+          </label>
+        </div>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="container">
+        <h1>Nano Banana Pro Prompt Gallery</h1>
+        <p>Curated, high-quality image prompts you can copy and remix. Filter by style, search by keyword, switch language.</p>
+      </div>
+    </section>
+
+    <nav class="category-bar" id="categoryBar" aria-label="Categories"></nav>
+
+    <main class="container">
+      <div class="grid" id="grid"></div>
+      <p class="empty" id="emptyState" hidden>No prompts match your search.</p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>PromptWisp · AI prompt gallery. Prompts are credited to their original authors.</p>
+      </div>
+    </footer>
+
+    <!-- 详情弹窗 -->
+    <div class="modal" id="modal" hidden>
+      <div class="modal-backdrop" data-close></div>
+      <div class="modal-card" role="dialog" aria-modal="true">
+        <button class="modal-close" data-close aria-label="Close">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
+        <div class="modal-media">
+          <img id="modalImg" alt="" />
+        </div>
+        <div class="modal-info">
+          <span class="modal-cat" id="modalCat"></span>
+          <h2 id="modalTitle"></h2>
+          <p class="modal-desc" id="modalDesc"></p>
+          <div class="block">
+            <div class="block-head">
+              <span>Prompt</span>
+              <button class="copy-btn" id="copyBtn">Copy</button>
+            </div>
+            <pre class="prompt-text" id="modalPrompt"></pre>
+          </div>
+          <div class="modal-meta" id="modalMeta"></div>
+          <a class="source-link" id="modalSource" target="_blank" rel="noopener">View source ↗</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="toast" id="toast" hidden></div>
+
+    <script type="module" src="./assets/js/app.js"></script>
+  </body>
+</html>
