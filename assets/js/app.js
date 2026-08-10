@@ -119,13 +119,6 @@ function openModal(p) {
     li.innerHTML = `<span class="det-label">${k}</span><span>${escapeHtml(v)}</span>`;
     meta.appendChild(li);
   }
-  const src = $("modalSource");
-  if (p.authorUrl) {
-    src.href = p.authorUrl;
-    src.hidden = false;
-  } else {
-    src.hidden = true;
-  }
   $("modal").hidden = false;
   document.body.style.overflow = "hidden";
   $("copyBtn").classList.remove("copied");

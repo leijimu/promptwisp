@@ -147,9 +147,6 @@ img { display: block; max-width: 100%; }
 .modal-meta li:last-child { border-bottom: 0; }
 .modal-meta .det-label { color: var(--muted-foreground); min-width: 84px; }
 .modal-meta a { color: var(--primary); }
-.source-link { display: inline-block; color: var(--primary); font-weight: 600; font-size: 14px; }
-.source-link:hover { text-decoration: underline; }
-
 /* Toast */
 .toast {
   position: fixed; left: 50%; bottom: 32px; transform: translateX(-50%);
